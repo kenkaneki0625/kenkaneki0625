@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything :sweat_smile:
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="shaon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shaon-baidya-b14927169/)
 [<img align="left" alt="shaon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shaondesu/)
