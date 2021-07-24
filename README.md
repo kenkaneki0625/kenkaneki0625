@@ -1,4 +1,6 @@
-### Hi there I am Shaon 👋
+## Hi there I am Shaon 👋
+
+<br/>
 
 ## I am a Developer, Keyboardist, Otaku and Embroiderer
 - 🌱 I’m currently learning everything :sweat_smile:
