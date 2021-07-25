@@ -2,7 +2,7 @@
 
 <br/>
 
-## I am a Developer, Keyboardist, Otaku and Embroiderer
+### I am a Developer, Keyboardist, Otaku and Embroiderer
 - 🌱 I’m currently learning everything :sweat_smile:
 
 
@@ -15,10 +15,7 @@
 
 
 ## I speak
-- English
-- Hindi
-- Bengali
-- Learning Japanese :hand_over_mouth:
+- English   - Hindi   - Bengali   - Learning Japanese
 
 <br/>
 
