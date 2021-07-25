@@ -15,7 +15,10 @@
 
 
 ## I speak
-- English   - Hindi   - Bengali   - Learning Japanese
+- English   
+- Hindi   
+- Bengali  
+- Learning Japanese
 
 <br/>
 
