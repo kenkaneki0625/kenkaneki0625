@@ -16,6 +16,7 @@
 
 [<img align="left" alt="shaon | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shaon-baidya-b14927169/)
 [<img align="left" alt="shaon | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/shaondesu/)
+[<img align="left" alt="shaon | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@shaonbaidya)
 
 <br/>
 
