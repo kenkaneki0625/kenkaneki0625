@@ -1,8 +1,5 @@
 <h2 align="center">Hi there I am Shaon 👋</h3>
 
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/W6dHvprT7oks6BpX5R/giphy.gif" width="200" height="200" /></h3>
-
-<h3 align="left">I am a Developer, Keyboardist, Otaku and Embroiderer</h3>
 - 🌱 I’m currently learning everything :sweat_smile:
 
 <h3 align="left">Things that I work with:</h3>
